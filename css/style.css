@@ -9,13 +9,14 @@ body {
 h1 {
     text-align: center;
 }
+
 h2 {
     font-size: 1.3rem;
     margin: 0;
 }
 
 .container {
-    width: 100%;
+    width: 97vw;
     margin: 0 auto;
 }
 
@@ -31,7 +32,7 @@ h2 {
 
 p {
     margin: 30px 10px 20px;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
 }
 
 .title-region {
@@ -55,6 +56,9 @@ p {
 #title-region-3 {
     background-color: magenta;
     color: white;
+}
+img {
+    width: 200px;
 }
 
 @media screen and (min-width: 992px) {
